@@ -15,6 +15,7 @@ Este proyecto tiene los siguientes objetivos específicos:
 Para llevar a cabo este proyecto, se utilizará una muestra de 500 clientes de Megaline a partir de cinco bases de datos con datos del año 2018. Estas bases de datos contienen información sobre usuarios, llamadas, SMS, sesiones web y detalles de las tarifas.
 
 ----------------
+# Analysis of Megaline's Surf and Ultimate Prepaid Plans by Carlos Horta (carlosgim@gmail.com)
 
 ## Introduction
 Megaline is a telecommunications operator that offers two prepaid packages: **Surf** and **Ultimate**.
